@@ -1,0 +1,13 @@
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:orange;
+    background-image: url("img/fon.jpg");
+    
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 34px;
+    line-height: 3px;
+    font-weight: 34px;
+}
